@@ -1,0 +1,13 @@
+{
+  "name": "opshub",
+  "version": "1.0.0",
+  "description": "**OpsHub** é um painel interativo em arquitetura **MERN (MongoDB, Express, React, Node.js)** com integração **DevOps**.   Seu objetivo é demonstrar domínio em desenvolvimento fullstack aliado à automação e infraestrutura moderna.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
